@@ -22,17 +22,14 @@ Customer churn directly impacts revenue and long-term business sustainability. T
 
 ---
 
-## 📂 Project Structure
-customer-churn-analysis/
-│
-├── data/
-├── notebooks/
-├── sql/
-├── powerbi/
-├── reports/
-├── images/
-├── README.md
-└── requirements.txt
+## 📁 Project Structure
+
+- data/ → raw and processed datasets
+- notebooks/ → Jupyter notebooks
+- sql/ → database queries
+- powerbi/ → dashboards
+- reports/ → final reports
+- images/ → figures and plots
 
 ---
 
